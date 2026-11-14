@@ -1,0 +1,8 @@
+{
+  "name": "harness-3d",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --dir explainer run dev",
+    "render": "pnpm --dir explainer run render"
+  }
+}
